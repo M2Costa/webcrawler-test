@@ -1,3 +1,5 @@
-Para rodar o projeto basta entrar na pasta e executar o seguinte comando
+<h3>Para rodar o projeto basta entrar na pasta principal e executar os seguintes comandos:</h3>
 
-node index.js
+<strong>npm install</strong>
+
+<strong>node index.js</strong>
